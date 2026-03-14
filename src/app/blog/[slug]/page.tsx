@@ -1,5 +1,7 @@
 "use client";
 
+export const runtime = "edge";
+
 import { use } from "react";
 import Link from "next/link";
 import { ArrowLeft, Calendar, Clock, User, Share2, Sparkles, Facebook, Twitter } from "lucide-react";
